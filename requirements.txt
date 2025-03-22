@@ -1,0 +1,4 @@
+hikari
+lightbulb
+aiohttp
+hikari-miru==2.0.0
